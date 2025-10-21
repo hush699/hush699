@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi，welcome to my homepage!
+I'am currently learning in CSU'JPG，luckily advised by Prof.Alex Jinpeng Wang!
 
 <!--
 **hush699/hush699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
